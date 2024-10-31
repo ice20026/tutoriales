@@ -70,12 +70,36 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <a href="https://youtu.be/ELSm-G201Ls?si=l2NfEy_9NTSzo_1U" class="btn">Visita Ejemplo</a>
+    <a href="https://youtu.be/ELSm-G201Ls?si=l2NfEy_9NTSzo_1U" class="btn">comenzar ya</a>
 </body>
 </html> 
 </body>
 </html>
 
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto con Espacio y Color Blanco</title>
+    <style>
+        body {
+            background-color: #333; /* Fondo oscuro para contraste */
+            font-family: Arial, sans-serif;
+            color: white; /* Color del texto en blanco */
+        }
+        .spaced-text {
+            letter-spacing: 2px; /* Espaciado entre letras */
+            color: white; /* Color del texto en blanco */
+        }
+    </style>
+</head>
+<body>
+    <h1 class="spaced-text">comienza ya</h1>
+    <p class="spaced-text">inicia tu despegue como un programador 
+    </p>
+</body>
+</html>
 
 
