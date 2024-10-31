@@ -44,7 +44,7 @@ aquí tendrás entrada a canales de programación
 </head>
 <body>
     <h1>Fotos con Tamaño Especificado</h1>
-    <img src="web 001.png" alt="Descripción de la imagen 1" class="image-small">
+    <img src="foto 005.gif" alt="Descripción de la imagen 1" class="image-small">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -72,11 +72,7 @@ aquí tendrás entrada a canales de programación
 <body>
     <a href="https://youtu.be/ELSm-G201Ls?si=l2NfEy_9NTSzo_1U" class="btn">Visita Ejemplo</a>
 </body>
-</html>
-    <img src="web 002.png" alt="Descripción de la imagen 2" class="image-large">
-
-
-    
+</html> 
 </body>
 </html>
 
