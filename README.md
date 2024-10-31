@@ -34,11 +34,11 @@ aquí tendrás entrada a canales de programación
     <style>
         .image-small {
             width: 500px;
-            height: 600px;
+            height: 500px;
         }
         .image-large {
             width: 500px;
-            height: 600px;
+            height: 500px;
         }
     </style>
 </head>
