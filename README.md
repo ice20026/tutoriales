@@ -33,18 +33,18 @@ aquí tendrás entrada a canales de programación
     <title>Fotos con Tamaño Ajustado</title>
     <style>
         .image-small {
-            width: 500px;
-            height: 500px;
+            width: 300px;
+            height: 200px;
         }
         .image-large {
-            width: 500px;
-            height: 500px;
+            width: 300px;
+            height: 200px;
         }
     </style>
 </head>
 <body>
     <h1>COMIENZA YA</h1>
-    <img src="foto 005.gif" alt="Descripción de la imagen 1" class="image-small">
+    <img src="foto 006.gif" alt="Descripción de la imagen 1" class="image-small">
 <html lang="es">
 <head>
     <meta charset="UTF-8">
