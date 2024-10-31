@@ -33,12 +33,12 @@ aquí tendrás entrada a canales de programación
     <title>Fotos con Tamaño Ajustado</title>
     <style>
         .image-small {
-            width: 300px;
-            height: 800px;
+            width: 500px;
+            height: 600px;
         }
         .image-large {
-            width: 400px;
-            height: 800px;
+            width: 500px;
+            height: 600px;
         }
     </style>
 </head>
@@ -51,21 +51,29 @@ aquí tendrás entrada a canales de programación
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Botón con Hipervínculo</title>
     <style>
+      body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
         .btn {
-            display: inline-block; /* Para que el enlace se comporte como botón */
-            font-size: 16px; /* Tamaño del texto */
-            padding: 10px 20px; /* Espaciado interno del botón */
-            color: white; /* Color del texto */
-            background-color: #007BFF; /* Color de fondo */
-            border: none; /* Sin borde */
-            border-radius: 5px; /* Bordes redondeados */
-            cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
-            text-align: center; /* Centra el texto */
-            text-decoration: none; /* Quita el subrayado del enlace */
-            margin: 10px; /* Espacio entre botones */
+            display: inline-block;
+            font-size: 16px;
+            padding: 10px 20px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
         }
         .btn:hover {
-            background-color: #0056b3; /* Color de fondo al pasar el ratón */
+            background-color: #0056b3;
         }
     </style>
 </head>
@@ -101,5 +109,47 @@ aquí tendrás entrada a canales de programación
     </p>
 </body>
 </html>
+
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botón Centrado con Hipervínculo</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        .btn {
+            display: inline-block;
+            font-size: 16px;
+            padding: 10px 20px;
+            color: white;
+            background-color: #007BFF;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://ice20026.github.io/web-002/" class="btn">atras</a>
+</body>
+</html>
+
+
 
 
