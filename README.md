@@ -34,16 +34,16 @@ aquí tendrás entrada a canales de programación
     <style>
         .image-small {
             width: 300px;
-            height: 200px;
+            height: 800px;
         }
         .image-large {
             width: 400px;
-            height: 300px;
+            height: 800px;
         }
     </style>
 </head>
 <body>
-    <h1>Fotos con Tamaño Especificado</h1>
+    <h1>COMIENZA YA</h1>
     <img src="foto 005.gif" alt="Descripción de la imagen 1" class="image-small">
 <html lang="es">
 <head>
@@ -77,12 +77,12 @@ aquí tendrás entrada a canales de programación
 </html>
 
 
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Texto con Espacio y Color Blanco</title>
+    <title></title>
     <style>
         body {
             background-color: #333; /* Fondo oscuro para contraste */
@@ -96,8 +96,8 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <h1 class="spaced-text">comienza ya</h1>
-    <p class="spaced-text">inicia tu despegue como un programador 
+    <h1 class="spaced-text"></h1>
+    <p class="spaced-text">
     </p>
 </body>
 </html>
