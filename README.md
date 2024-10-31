@@ -70,33 +70,13 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <a href="https://youtube.com/playlist?list=PLE8uP447fYpis_9iiaT1GrdOLmg85pAJB&si=YkVkHKy0UrP-7LEB" class="btn">Visita Ejemplo</a>
+    <a href="https://youtu.be/ELSm-G201Ls?si=l2NfEy_9NTSzo_1U" class="btn">Visita Ejemplo</a>
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
     <img src="ruta/a/tu/imagen2.jpg" alt="Descripción de la imagen 2" class="image-large">
+
+
+    
 </body>
 </html>
 
