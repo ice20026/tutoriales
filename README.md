@@ -153,3 +153,68 @@ aquí tendrás entrada a canales de programación
 
 
 
+
+
+
+
+
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catálogo de Vínculos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .catalog {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .item {
+            background-color: white;
+            margin: 10px;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 200px;
+            text-align: center;
+        }
+        .item a {
+            text-decoration: none;
+            color: #007BFF;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .item a:hover {
+            color: #0056b3;
+        }
+        .item p {
+            font-size: 14px;
+            color: #666;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Catálogo de Vínculos</h1>
+    <div class="catalog">
+        <div class="item">
+            <a href="https://www.uv.es/jbosch/PDF/Curso%20de%20HTML.pdf" target="_blank">manual</a>
+            <p>este enlace te lleva al manual de html</p>
+        </div>
+        <div class="item">
+            <a href="https://www.paessler.com/es/it-explained/server" target="_blank">servidor</a>
+            <p> este te muestra que es un servidor y como usarlo </p>
+        </div>
+        <!-- Añade más elementos de catálogo aquí -->
+    </div>
+</body>
+</html>
+
+
