@@ -239,7 +239,7 @@
             margin: 0;
             padding: 0;
             height: 150vh; /* Altura de la página completa */
-            width: 120vw; /* Ancho de la página completa */
+            width: 150vw; /* Ancho de la página completa */
             display: flex;
             justify-content: center;
             align-items: center;
