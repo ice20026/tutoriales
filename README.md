@@ -30,7 +30,7 @@ aquí tendrás entrada a canales de programación
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fotos con Tamaño Ajustado</title>
+    <title></title>
     <style>
         .image-small {
             width: 300px;
@@ -49,7 +49,7 @@ aquí tendrás entrada a canales de programación
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón con Hipervínculo</title>
+    <title></title>
     <style>
       body {
             display: flex;
@@ -146,7 +146,7 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <a href="https://ice20026.github.io/web-002/" class="btn">atras</a>
+    <a href="https://ice20026.github.io/ice_02/" class="btn">atras</a>
 </body>
 </html>
 
