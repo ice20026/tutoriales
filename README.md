@@ -35,8 +35,8 @@
             height: 200px;
         }
         .image-large {
-            width: 300px;
-            height: 200px;
+            width: 150px;
+            height: 150px;
         }
     </style>
 </head>
