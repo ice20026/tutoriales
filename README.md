@@ -1,6 +1,4 @@
-# tutoriales
-aquí tendrás entrada a canales de programación 
-
+#
 
 
 <html lang="es">
@@ -43,7 +41,7 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <h1>COMIENZA YA</h1>
+    <h1>bienvenido a tutoriales y mas </h1>
     <img src="foto 006.gif" alt="Descripción de la imagen 1" class="image-small">
 <html lang="es">
 <head>
@@ -202,7 +200,6 @@ aquí tendrás entrada a canales de programación
     </style>
 </head>
 <body>
-    <h1>Catálogo de Vínculos</h1>
     <div class="catalog">
         <div class="item">
             <a href="https://www.uv.es/jbosch/PDF/Curso%20de%20HTML.pdf" target="_blank">manual</a>
