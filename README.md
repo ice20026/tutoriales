@@ -31,12 +31,12 @@
     <title></title>
     <style>
         .image-small {
-            width: 150px;
-            height: 150px;
+            width: 300px;
+            height: 200px;
         }
         .image-large {
-            width: 150px;
-            height: 150px;
+            width: 300px;
+            height: 200px;
         }
     </style>
 </head>
@@ -238,8 +238,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            height: 200vh; /* Altura de la página completa */
-            width: 200vw; /* Ancho de la página completa */
+            height: 150vh; /* Altura de la página completa */
+            width: 120vw; /* Ancho de la página completa */
             display: flex;
             justify-content: center;
             align-items: center;
