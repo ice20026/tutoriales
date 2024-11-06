@@ -238,8 +238,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            height: 300vh; /* Altura de la página completa */
-            width: 300vw; /* Ancho de la página completa */
+            height: 200vh; /* Altura de la página completa */
+            width: 200vw; /* Ancho de la página completa */
             display: flex;
             justify-content: center;
             align-items: center;
