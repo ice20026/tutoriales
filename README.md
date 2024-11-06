@@ -31,8 +31,8 @@
     <title></title>
     <style>
         .image-small {
-            width: 300px;
-            height: 200px;
+            width: 150px;
+            height: 150px;
         }
         .image-large {
             width: 150px;
